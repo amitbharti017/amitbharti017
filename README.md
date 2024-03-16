@@ -2,10 +2,15 @@
 
 
 ## Profiles and contact info
+* Goal-driven AI enthusiast dedicated to driving impactful innovation and solving complex problems through machine learning and deep learning.
+* Master's degree in Artificial Intelligence from the University of Groningen.
+* Interned at DSM, using time series analysis to predict fish oil procurement cost. Our project won an award at Dutch Summer of AI 2022.
+* Collaborated with Gemeente Groningen, ASTRON, and University of Göttingen to gain hands-on experience in solving real-world problems.
 * 📧 If you would like to contact me, you can always reach me - [amitbharti936@gmail.com](mailto:amitbharti936@gmail.com),
-  [![Email Badge](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:amitbharti936@gmail.com)
-  [![CV Badge](https://img.shields.io/badge/My-CV-critical)](assets/Resume.pdf)
-  [![Linkedin Badge](https://img.shields.io/badge/-Amit-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/amit-bharti936)
+<br>
+[![Email Badge](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:amitbharti936@gmail.com)
+[![CV Badge](https://img.shields.io/badge/My-CV-critical)](assets/Resume.pdf)
+[![Linkedin Badge](https://img.shields.io/badge/-Amit-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/amit-bharti936)
 
 
 <h3 align="left">Languages and Tools:</h3>
