@@ -4,7 +4,7 @@
 ## Profiles and contact info
 * 📧 If you would like to contact me, you can always reach me - [amitbharti936@gmail.com](mailto:amitbharti936@gmail.com),
   [![Email Badge](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:amitbharti936@gmail.com)
-  [![CV Badge](https://img.shields.io/badge/My-CV-critical)](assets/resume.pdf)
+  [![CV Badge](https://img.shields.io/badge/My-CV-critical)](assets/Resume.pdf)
   [![Linkedin Badge](https://img.shields.io/badge/-Amit-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/amit-bharti936)
 
 
