@@ -4,8 +4,8 @@
 ## Profiles and contact info
 * 📧 If you would like to contact me, you can always reach me - [amitbharti936@gmail.com](mailto:amitbharti936@gmail.com),
 * [![Email Badge](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:amitbharti936@gmail.com)
-* [![CV Badge](https://img.shields.io/badge/Resume-CV-critical)]([https://abhishekrs4.github.io/docs/cv_abhishek_r_s.pdf](https://drive.google.com/file/d/1TP0tqjtm_X7yuYOI6WRhmKId9gZX7Eeq/view?usp=sharing))
-* [![Linkedin Badge](https://img.shields.io/badge/-Amit-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/amit-bharti936)
+* [![CV Badge](https://img.shields.io/badge/Resume-CV-critical)]([https://drive.google.com/file/d/1TP0tqjtm_X7yuYOI6WRhmKId9gZX7Eeq/view?usp=sharing](https://drive.google.com/file/d/1TP0tqjtm_X7yuYOI6WRhmKId9gZX7Eeq/view?usp=sharing))
+* [![Linkedin Badge](https://img.shields.io/badge/-Amit-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/amit-bharti936)
 
 
 <h3 align="left">Languages and Tools:</h3>
