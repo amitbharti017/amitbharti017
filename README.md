@@ -2,7 +2,7 @@
 
 
 ## Profiles and contact info
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<img align="right" alt="coding" width="300" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 * Goal-driven AI enthusiast dedicated to driving impactful innovation and solving complex problems through machine learning and deep learning.
 * Master's degree in Artificial Intelligence from the University of Groningen.
